@@ -1,6 +1,6 @@
 const VisitNowPanel = () => {
   const handleClick = () => {
-    console.log("John Henry Gumbao");
+    console.log("John Hel Gumban");
   };
 
   return (
